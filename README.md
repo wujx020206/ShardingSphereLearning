@@ -21,3 +21,5 @@ ShardingShpereLearning理论学习情况及成果整理
 9.ShardingSphere实现读写分离
 
 10.ShardingSphere读写分离与分片操作
+
+文档格式：宋体 小四号 固定行间距20磅
