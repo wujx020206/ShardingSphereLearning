@@ -4,11 +4,11 @@ ShardingShpereLearning理论学习情况及成果整理
 
 1.ShardingSphere简介
 
-2.ShardingSphere分表与分库分表
+2.ShardingSphere分库分表
 
 3.ShardingSphere分库分表查询
 
-4.SPI扩展机制概述（含stand通过SPI实现range查询策略）
+4.SPI扩展机制概述
 
 5.分片算法概述
 
