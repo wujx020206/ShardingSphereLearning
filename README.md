@@ -8,9 +8,9 @@ ShardingShpereLearning理论学习情况及成果整理
 
 3.ShardingSphere分库分表查询
 
-4.SPI扩展机制概述
+4.SPI扩展机制概述（含stand通过SPI实现range查询策略）
 
-5.stand通过SPI实现range查询策略
+5.分片算法概述
 
 6.complex复合分片算法配置分库分表
 
